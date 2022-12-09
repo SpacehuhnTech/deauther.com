@@ -4,15 +4,22 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
-  "url": "https://your-docusaurus-test-site.com",
+  "title": "ESP8266 Deauther",
+  "tagline": "Affordable WiFi hacking platform for testing and learning",
+  "url": "https://deauther.com",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "scripts": [
+    {
+      "src": "https://plausible.io/js/script.js",
+      "defer": true,
+      "data-domain": "deauther.com"
+    }
+  ],
+  "organizationName": "spacehuhntech",
+  "projectName": "esp8266_deauther",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -27,11 +34,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "C:\\Users\\Stefan\\Documents\\Projects\\deauther.com\\sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
-        },
-        "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/spacehuhntech/deauther.com/blob/main/"
         },
         "theme": {
           "customCss": "C:\\Users\\Stefan\\Documents\\Projects\\deauther.com\\src\\css\\custom.css"
@@ -41,75 +44,25 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "Deauther",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "Deauther Logo",
         "src": "img/logo.svg"
       },
       "items": [
         {
           "type": "doc",
-          "docId": "intro",
+          "docId": "about",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Docs"
         },
         {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
-        },
-        {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/spacehuhntech/deauther.com",
           "label": "GitHub",
           "position": "right"
         }
       ],
       "hideOnScroll": false
-    },
-    "footer": {
-      "style": "dark",
-      "links": [
-        {
-          "title": "Docs",
-          "items": [
-            {
-              "label": "Tutorial",
-              "to": "/docs/intro"
-            }
-          ]
-        },
-        {
-          "title": "Community",
-          "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
-            }
-          ]
-        }
-      ],
-      "copyright": "Copyright © 2022 My Project, Inc. Built with Docusaurus."
     },
     "prism": {
       "theme": {
@@ -341,7 +294,6 @@ export default {
   "customFields": {},
   "plugins": [],
   "themes": [],
-  "scripts": [],
   "headTags": [],
   "stylesheets": [],
   "clientModules": [],
