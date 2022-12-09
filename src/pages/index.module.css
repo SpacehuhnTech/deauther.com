@@ -42,3 +42,7 @@
   50% { transform: scale(1.025); }
   100% { transform: scale(1); }
 }
+
+.featureImg {
+  border-radius: .5rem;
+}

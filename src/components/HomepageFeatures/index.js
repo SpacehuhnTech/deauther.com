@@ -4,42 +4,39 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    src: 'img/512.png',
+    title: 'Scan Select Attack',
+    src: 'img/home/1.png',
     description: (
       <>
-        blablabla blablabla blablabla blablabla blablabla
-        blablabla blablabla blablabla blablabla blablabla
+        It's never been easier to test your own network(s) against Deauthentication attacks.
       </>
     ),
   },
   {
     title: 'Easy to DIY',
-    src: 'img/512.png',
+    src: 'img/home/2.png',
     description: (
       <>
-        blablabla blablabla blablabla blablabla blablabla
-        blablabla blablabla blablabla blablabla blablabla
+        Build your own Deauther with common off-the-shelf parts.
       </>
     ),
   },
   {
     title: 'Learn & Test',
-    src: 'img/512.png',
+    src: 'img/home/3.png',
     description: (
       <>
-        blablabla blablabla blablabla blablabla blablabla
-        blablabla blablabla blablabla blablabla blablabla
+        Understand WiFi, test networks, find devices, and learn how it all connects!
       </>
     ),
   },
 ];
 
-function Feature({src, title, description}) {
+function Feature({src, title, description, alt}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <img src={src} />
+        <img src={src} className={styles.featureImg} alt={alt} />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
