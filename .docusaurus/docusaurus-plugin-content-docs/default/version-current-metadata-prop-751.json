@@ -11,7 +11,7 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "ESP8266 Deauther",
+        "label": "About",
         "href": "/docs/about",
         "docId": "about"
       }
@@ -20,8 +20,8 @@
   "docs": {
     "about": {
       "id": "about",
-      "title": "ESP8266 Deauther",
-      "description": "...",
+      "title": "About",
+      "description": "This site is currently under construction.",
       "sidebar": "tutorialSidebar"
     }
   }

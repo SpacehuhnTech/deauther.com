@@ -1,8 +1,8 @@
 {
   "unversionedId": "about",
   "id": "about",
-  "title": "ESP8266 Deauther",
-  "description": "...",
+  "title": "About",
+  "description": "This site is currently under construction.",
   "source": "@site/docs/about.md",
   "sourceDirName": ".",
   "slug": "/about",
@@ -11,9 +11,11 @@
   "editUrl": "https://github.com/spacehuhntech/deauther.com/blob/main/docs/about.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 10,
   "frontMatter": {
-    "sidebar_position": 1
+    "title": "About",
+    "description": "This site is currently under construction.",
+    "sidebar_position": 10
   },
   "sidebar": "tutorialSidebar"
 }
