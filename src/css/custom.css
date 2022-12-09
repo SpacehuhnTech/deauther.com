@@ -4,14 +4,17 @@
  * work well for content-centric websites.
  */
 
-/* You can override the default Infima variables here. */
+/* Colors from the logo: https://coolors.co/232323-9a916c-3a3aba-cccccf-696969-f7bd13 */
+
 :root {
   --ifm-color-primary: #D9A408;
 
+  /* https://coolors.co/d9a408-b18606-8a6905-624b04 */
   --ifm-color-primary-dark: #B18606;
   --ifm-color-primary-darker: #8A6905;
   --ifm-color-primary-darkest: #624B04;
 
+  /* https://coolors.co/d9a408-f6be13-f8c83a-f9d362 */
   --ifm-color-primary-light: #F6BE13;
   --ifm-color-primary-lighter: #F8C83A;
   --ifm-color-primary-lightest: #F9D362;
