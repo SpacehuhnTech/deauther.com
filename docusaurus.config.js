@@ -65,7 +65,7 @@ const config = {
             label: 'Docs',
           },
           {
-            href: 'https://github.com/spacehuhntech/deauther.com',
+            href: 'https://github.com/spacehuhntech/esp8266_deauther',
             label: 'GitHub',
             position: 'right',
           },
