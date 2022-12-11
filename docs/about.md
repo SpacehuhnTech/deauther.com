@@ -13,10 +13,10 @@ import AboutFeatures from '@site/src/components/AboutFeatures';
 
 Scan for WiFi devices, block selected connections, create dozens of networks and confuse WiFi scanners!
 
-<Button variant='contained' color='success' href='buy'>Buy Now</Button>&nbsp;
-<Button variant='contained' color='primary' href='diy/installation-bin'>Installation</Button>&nbsp;
-<Button variant='contained' color='primary' href='download'>Download</Button>&nbsp;
-<Button variant='contained' color='primary' href='https://github.com/spacehuhntech/esp8266_deauther' target='_blank'>Github</Button>&nbsp;
+<Button variant='contained' color='success' href='buy' sx={{mr:.5,mb:.5}}>Buy Now</Button>
+<Button variant='contained' color='primary' href='diy/installation-bin' sx={{mr:.5,mb:.5}}>Installation</Button>
+<Button variant='contained' color='primary' href='download' sx={{mr:.5,mb:.5}}>Download</Button>
+<Button variant='contained' color='primary' href='https://github.com/spacehuhntech/esp8266_deauther' target='_blank' sx={{mr:.5,mb:.5}}>Github</Button>
 
 ## Featured On
 
