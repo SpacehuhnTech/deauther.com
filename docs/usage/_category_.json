@@ -1,0 +1,8 @@
+{
+    "label": "Usage",
+    "position": 60,
+    "link": {
+        "type": "generated-index",
+        "description": "Everything you need to know to get started using your Deauther."
+    }
+}
