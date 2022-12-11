@@ -21,7 +21,7 @@ Check out Spacehuhn Store to get a Deauther directly from us.
 
 ## Maltronics Deauther
 
-<img src='/img/buy/maltronics.png' alt='Maltronics WiFi Deauther' width='400px'/>
+<img src='/img/buy/maltronics.jpg' alt='Maltronics WiFi Deauther' width='400px'/>
 
 The Maltronics Deauther comes in a sleek metallic silver case, offers both USB-C and USB-A, and has an RGB LED. 
 
