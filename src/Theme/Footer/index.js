@@ -24,7 +24,7 @@ const Footer = () => {
         align='center'
         display='block'
       >
-        <Link href='https://github.com/spacehuhntech/spacehuhn.com' target='_blank' underline='hover' style={{ color: '#ccc' }}>
+        <Link href='https://github.com/spacehuhntech/deauther.com' target='_blank' underline='hover' style={{ color: '#ccc' }}>
           {version.name}
         </Link>
       </Typography>
