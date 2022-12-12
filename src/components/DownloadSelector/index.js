@@ -111,6 +111,10 @@ const DownloadSelector = () => {
           {/* ===== START ===== */}
           {stage === 'start' &&
             <>
+              <Grid item xs={12}>
+                <Typography variant='h4' sx={{ pb: 2, textAlign: 'center' }}>Download Selector</Typography>
+              </Grid>
+
               <Grid item>
                 <Button sx={{ height: '4rem' }} variant='contained' size='large' onClick={() => goto('binaries')}>Binaries (.bin)</Button>
               </Grid>
