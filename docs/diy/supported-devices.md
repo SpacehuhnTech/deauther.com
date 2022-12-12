@@ -59,6 +59,7 @@ The Adafruit Feather HUZZAH is a high-quality development board with a LiPo batt
 Versions with and without soldered header pins are available. 
 Documentation and tutorials can be found at [learn.adafruit.com](https://learn.adafruit.com/adafruit-feather-huzzah-esp8266).
 
-If you want an easy way to add a battery to your Deauther, this is the board for you. 
+If you want an easy way to add a battery to your Deauther, this is the board for you.  
+(You can flash it with the same .bin file as the NodeMCU)
 
 <Button href='https://www.adafruit.com/product/2821' target='_blank' variant='contained'>Visit Adafruit.com</Button>
