@@ -35,7 +35,7 @@ You can control it through the web interface by connecting to the *pwned* networ
 
 An alternative offers the support for a small OLED display and a couple of buttons. Then you can control it without requiring another device entirely.
 
-## ESP8266 Deauther v3
+## ESP8266 Deauther V3
 
 ![Huhnitor interface](/img/deautherv3/v3.jpg)
 
