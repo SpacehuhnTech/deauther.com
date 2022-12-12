@@ -181,7 +181,7 @@ const DownloadSelector = () => {
       </Box>
 
       {/* ===== Back Button ===== */}
-      <Box sx={{ minHeight: '38px' }}>
+      <Box sx={{ minHeight: '38px', mt: 1 }}>
         {stage !== 'start' &&
           <Button variant='outlined' onClick={back} sx={{}} disabled={stage === 'start'}>Back</Button>
         }
