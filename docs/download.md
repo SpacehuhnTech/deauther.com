@@ -4,7 +4,9 @@ description: 'This site is currently under construction.'
 sidebar_position: 40
 ---
 
-:::caution
-This site is currently under construction.  
-To download the project, visit **[Github](https://github.com/SpacehuhnTech/esp8266_deauther/releases)**.
-:::
+import DownloadSelector from '@site/src/components/DownloadSelector';
+
+For flashing the firmware, choose Binaries and select your device.  
+If you want to open the project in Arduino IDE, choose Source Code.  
+
+<DownloadSelector />
