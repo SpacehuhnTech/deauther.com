@@ -5,6 +5,7 @@ sidebar_position: 10
 ---
 
 import Button from '@mui/material/Button';
+import Box from '@mui/material/Box';
 import AboutFeatures from '@site/src/components/AboutFeatures';
 
 # ESP8266 Deauther
@@ -13,10 +14,16 @@ import AboutFeatures from '@site/src/components/AboutFeatures';
 
 Scan for WiFi devices, block selected connections, create dozens of networks and confuse WiFi scanners!
 
+<Box mb={2}>
 <Button variant='contained' color='success' href='buy' sx={{mr:.5,mb:.5}}>Buy Now</Button>
 <Button variant='contained' color='primary' href='diy/installation-bin' sx={{mr:.5,mb:.5}}>Installation</Button>
 <Button variant='contained' color='primary' href='download' sx={{mr:.5,mb:.5}}>Download</Button>
 <Button variant='contained' color='primary' href='https://github.com/spacehuhntech/esp8266_deauther' target='_blank' sx={{mr:.5,mb:.5}}>Github</Button>
+</Box>
+
+:::tip
+The WiFi password for `pwned` is `deauther` in case you were looking for it 😉
+:::
 
 ## Featured On
 
