@@ -22,6 +22,14 @@ Scan for WiFi devices, block selected connections, create dozens of networks and
 
 <AboutFeatures />
 
+<br />
+
+<iframe src="https://ghbtns.com/github-btn.html?user=spacehuhntech&repo=esp8266_deauther&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+
+<iframe src="https://ghbtns.com/github-btn.html?user=spacehuhntech&repo=esp8266_deauther&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+
+<iframe src="https://ghbtns.com/github-btn.html?user=spacehuhntech&repo=esp8266_deauther&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+
 ## About this Project
 
 This firmware allows you to easily perform a variety of actions to test 802.11 networks using an [ESP8266](https://www.espressif.com/en/products/socs/esp8266). It's also a great project for learning about WiFi, microcontrollers, Arduino, hacking and electronics/programming in general.  
