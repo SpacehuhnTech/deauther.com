@@ -8,7 +8,7 @@ import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
 
 :::tip
-If you're looking for a more straightforward installation method, follow the [.bin file tutorial](/diy/installation-bin).
+If you're looking for a more straightforward installation method, follow the [.bin file tutorial](/docs/diy/installation-bin).
 :::
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NbRu9t7z3Ts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
