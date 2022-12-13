@@ -4,7 +4,7 @@ description: 'How to use the Deauther V2 Serial Interface.'
 sidebar_position: 30
 ---
 
-1. Open [serial.huhn.me](serial.huhn.me) with Chrome, Edge, or Opera for desktop. (Other browsers are not supported at the moment)
+1. Open [serial.huhn.me](https://serial.huhn.me) with Chrome, Edge, or Opera for desktop. (Other browsers are not supported at the moment)
     
 2. Click Connect
     
@@ -123,4 +123,4 @@ format
 
 ### Using Huhnitor
 
-Huhnitor was made for the Deauther V3 but works on the V2 just as well. Check out our tutorial here: [https://blog.spacehuhn.com/huhnitor-installation/](/img/usage/arduinoserial5.jpg)
+Huhnitor was made for the Deauther V3 but works on the V2 just as well. Check out [our tutorial](https://blog.spacehuhn.com/huhnitor-installation/)
