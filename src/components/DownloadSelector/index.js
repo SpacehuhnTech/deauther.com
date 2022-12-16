@@ -153,7 +153,7 @@ const DownloadSelector = () => {
           {stage === 'download' &&
             <>
               <Grid item xs={12}>
-                <Typography variant='h4' sx={{ pb: 2, textAlign: 'center' }}>Support Us ❤️</Typography>
+                <Typography variant='h4' sx={{ pb: 2, textAlign: 'center', color: isDarkTheme ? '#fff' : '#000'}}>Support Us ❤️</Typography>
                 <SelectGroup values={['5€', '10€', '25€']} value={donation} changeValue={setDonation} />
               </Grid>
 
