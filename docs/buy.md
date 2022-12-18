@@ -42,5 +42,5 @@ You can find many other Deauthers online too. Those, however, are not officially
 
 **Please do not support people whose entire business is built upon taking advantage of open-source projects.**
 
-If you want to save money, I recommend you build one yourself! You only need an ESP8266 Development board, a USB cable, and a computer. See [supported devices](http://localhost:3000/docs/diy/supported-devices) for details.
+If you want to save money, I recommend you build one yourself! You only need an ESP8266 Development board, a USB cable, and a computer. See [supported devices](/docs/diy/supported-devices) for details.
 :::

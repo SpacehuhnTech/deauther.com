@@ -11,7 +11,7 @@ It uses a 128x64 pixel monochrome OLED display. These small and affordable displ
 At startup, the Deauther scans for nearby networks. Give it a couple of seconds. The LED is blue while scanning and turns green once the scan is complete and the device is ready.
 
 :::info
-I'm using the DSTIKE Deauther Watch here (get one at [DSTIKE.com](https://dstike.com/collections/all/deauther#MainContent)). But other [supported hardware](http://localhost:3000/docs/diy/supported-devices) works too.
+I'm using the DSTIKE Deauther Watch here (get one at [DSTIKE.com](https://dstike.com/collections/all/deauther#MainContent)). But other [supported hardware](/docs/diy/supported-devices) works too.
 :::
 
 ![Turning on DSTIKE Deauther Watch](/img/usage/watch1.gif)

@@ -49,7 +49,7 @@ sidebar_position: 40
 ## Changing Settings (Serial)
 
 :::info
-You need a serial connection for this one. See [Serial Interface](http://localhost:3000/docs/usage/serial) for more info.
+You need a serial connection for this one. See [Serial Interface](/docs/usage/serial) for more info.
 :::
 
 1. Open a Serial Terminal of your choice

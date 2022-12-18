@@ -5,7 +5,7 @@ sidebar_position: 20
 ---
 
 :::tip
-This installation method is the easiest. But if you're looking to modify the code, follow the [Arduino IDE tutorial](http://localhost:3000/docs/diy/.installation-arduino).
+This installation method is the easiest. But if you're looking to modify the code, follow the [Arduino IDE tutorial](/docs/diy/.installation-arduino).
 :::
 
 1. Get a .bin file for your board from the [Downloads](/docs/download) page
