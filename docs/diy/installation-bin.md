@@ -8,9 +8,9 @@ sidebar_position: 20
 This installation method is the easiest. But if you're looking to modify the code, follow the [Arduino IDE tutorial](/docs/diy/.installation-arduino).
 :::
 
-1. Get a .bin file for your board from the [Downloads](/docs/download) page
-2. Connect your ESP8266 board via USB
-3. Open [esp.huhn.me](https://esp.huhn.me) in Chrome, or another supported browser
+1. Get a .bin file for your board from [deauther.com](https://deauther.com/docs/download)
+2. Open [esp.huhn.me](https://esp.huhn.me) in Chrome, or another supported browser
+3. Connect your ESP8266 board via USB
 4. Click Connect and select the serial port of your ESP
 5. Select your Deauther .bin file
 6. Click Program
