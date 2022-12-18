@@ -5,7 +5,7 @@ sidebar_position: 20
 ---
 
 :::tip
-This installation method is the easiest. But if you're looking to modify the code, follow the [Arduino IDE tutorial](/docs/diy/.installation-arduino).
+This installation method is the easiest. But if you're looking to modify the code, follow the [Arduino IDE tutorial](/docs/diy/installation-arduino).
 :::
 
 1. Get a .bin file for your board from [deauther.com](https://deauther.com/docs/download)
@@ -30,15 +30,6 @@ Or maybe you're missing the drivers for your device:
 🔗 CP210x Drivers: [https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)  
 🔗 FTDI Drivers: [https://ftdichip.com/drivers/](https://ftdichip.com/drivers/)
 
-## Alternatives
-
-My ESP web tool is not the only software you can use to flash your ESP8266: 
-* [esptool](https://github.com/espressif/esptool)
-* [ESP flash download tools](https://www.espressif.com/en/support/download/other-tools)
-* [esptool-gui](https://github.com/Rodmg/esptool-gui)
-
-And if you're looking for something Deauther-specific, check out n2d: [https://github.com/realmrvodka/n2d/](https://github.com/realmrvodka/n2d/)
-
 ## Connection failed?
 
 Make sure to set the baud rate to 115200 in the settings. Higher baud rates allow faster upload speeds but can also introduce connection issues.
@@ -46,3 +37,12 @@ Make sure to set the baud rate to 115200 in the settings. Higher baud rates allo
 If that doesn't help, check out this blog post about common ESP8266 and ESP32 errors: [https://blog.spacehuhn.com/espcomm/](https://blog.spacehuhn.com/espcomm/)
 
 And if you run into other issues, try using a different flashing tool/method. 
+
+## Alternative Tools
+
+My ESP web tool is not the only software you can use to flash your ESP8266: 
+* [esptool](https://github.com/espressif/esptool)
+* [ESP flash download tools](https://www.espressif.com/en/support/download/other-tools)
+* [esptool-gui](https://github.com/Rodmg/esptool-gui)
+
+And if you're looking for something Deauther-specific, check out n2d: [https://github.com/realmrvodka/n2d/](https://github.com/realmrvodka/n2d/)
