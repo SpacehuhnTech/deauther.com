@@ -80,6 +80,7 @@ const config = {
         disableSwitch: false,
         respectPrefersColorScheme: true,
       },
+      image: '/img/thumbnail.jpg',
     }),
 };
 
