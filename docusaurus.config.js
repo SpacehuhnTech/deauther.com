@@ -80,6 +80,11 @@ const config = {
         disableSwitch: false,
         respectPrefersColorScheme: true,
       },
+      metadata: [
+        { name: 'description', content: 'ESP8266 Deauther: Affordable WiFi hacking platform for testing and learning.' },
+        { name: 'keywords', content: 'Deauther, ESP8266, Hacking, WiFi Jammer, Arduino, Spacehuhn' },
+        { name: 'author', content: 'Spacehuhn' },
+      ],
       image: '/img/thumbnail.jpg',
     }),
 };
