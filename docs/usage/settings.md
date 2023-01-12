@@ -52,7 +52,7 @@ sidebar_position: 40
 You need a serial connection for this one. See [Serial Interface](/docs/usage/serial) for more info.
 :::
 
-1. Open a Serial Terminal of your choice
+1. Open a Serial Terminal of your choice (for example [serial.huhn.me](https://serial.huhn.me))
 2. Connect your Deauther/ESP8266 Board (115200baud, \n)
 3. To view your current settings type `get settings`
 4. To change a setting, use the set command. For example: `set password "my new cool pswd"`
