@@ -19,6 +19,14 @@ Check out Spacehuhn Store to get a Deauther directly from us.
 <Button href='https://spacehuhn.store' target='_blank' variant='contained'>Visit spacehuhn.store</Button>
 -->
 
+## D1 Mini Deauther
+
+<img src='/img/buy/d1mini.jpg' alt='Spacehuhn D1 Mini Deauther' width='600px'/>
+
+The original high-quality D1 Mini board in a lovely 3D printed case flashed with the ESP8266 Deauther firmware.  
+
+<Button href='https://spacehuhn.store/products/deauther-d1-mini' target='_blank' variant='contained'>Visit Spacehuhn.store</Button>
+
 ## Maltronics Deauther
 
 <img src='/img/buy/maltronics.jpg' alt='Maltronics WiFi Deauther' width='400px'/>
