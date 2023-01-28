@@ -53,3 +53,10 @@ Neither the ESP8266, nor its SDK was meant or built for such purposes. **Bugs ca
 Please check the legal regulations in your country before using it.  
 We don't take any responsibility for what you do with this program.  
 :::
+
+## About me
+
+<img src='/img/spacehuhn.png' alt='' width='200' />
+
+Hi, I'm Spacehuhn. I make open-source hacking tools for microcontrollers. 
+If this sounds interesting, check out my [website](https://spacehuhn.com/), where you will find links to my social media and other projects.
