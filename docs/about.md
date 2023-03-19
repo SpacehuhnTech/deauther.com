@@ -25,6 +25,13 @@ Scan for WiFi devices, block selected connections, create dozens of networks and
 The WiFi password for `pwned` is `deauther` in case you were looking for it 😉
 :::
 
+## Functions
+
+* Scan for WiFi networks and clients
+* Create docents of WiFi networks (beacon flooding)
+* Confuse WiFi trackers by sending fake [probe requests](https://blog.spacehuhn.com/probe-request) (probe flooding)
+* Disconnect selected devices by sending [deauth packets](https://blog.spacehuhn.com/wifi-deauthentication-frame) (deauthentication attack)
+
 ## Featured On
 
 <AboutFeatures />
