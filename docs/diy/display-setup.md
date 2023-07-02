@@ -159,7 +159,11 @@ Or `#define SH1106_SPI` to `#define SSD1306_SPI` if you're using an SPI display.
 
 ## Testing everything
 
-When everything is correctly set up and uploaded, you must open the serial monitor with Arduino.  
+:::tip
+You can also use [serial.huhn.me](https://serial.huhn.me) to connect to your deauther. It's a web-based serial monitor I made. It requires Chrome for Desktop or a Chromium-based browser that supports the Web Serial API.
+:::
+
+When everything is correctly set up and uploaded, open the serial monitor with Arduino (Tools > Serial Monitor). 
 
 - **Set the baud rate to `115200` and select `Newline`.**  If you see it resetting every few seconds, check the code and make you didn't use the same pin twice.
 
@@ -167,7 +171,7 @@ When everything is correctly set up and uploaded, you must open the serial monit
 
 - To test all buttons, enter `screen mode buttontest`. To get back, use `screen mode menu`.  
 
-- To test the LED(s), you can run `led <r> <g> <b>`. For example `led 255 0 0` should turn the LED red.   
+- To test the LED(s), you can run `led <r> <g> <b>`. For example, `led 255 0 0` should turn the LED red.   
 
 If you still have problems with the display, try running an example to test if it's a software or a hardware problem. This is the display library used in the Deauther: https://github.com/squix78/esp8266-oled-ssd1306  
-You can find examples there, try to get those running.  
+You can find examples there. Try to get those running.  
