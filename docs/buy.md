@@ -27,6 +27,16 @@ The original high-quality D1 Mini board in a lovely 3D printed case flashed with
 
 <Button href='https://spacehuhn.store/products/deauther-d1-mini' target='_blank' variant='contained'>Visit Spacehuhn.store</Button>
 
+## HackHeld Solder Kit
+
+<img src='/img/buy/hackheld.jpg' alt='HackHeld Vega II' width='600px'/>
+
+This DIY solder kit is a great way to learn how to solder and build your own Deauther. It comes with a D1 Mini, a 3D printed case, and all the necessary components you need. (**Requires soldering!**)
+
+<Button href='https://spacehuhn.store/products/hackheld-vega-ii-kit' target='_blank' variant='contained'>Visit Spacehuhn.store</Button>
+&nbsp;
+<Button href='https://hackheld.spacehuhn.com' target='_blank' variant='contained'>Instructions</Button>
+
 ## Maltronics Deauther
 
 <img src='/img/buy/maltronics.jpg' alt='Maltronics WiFi Deauther' width='400px'/>

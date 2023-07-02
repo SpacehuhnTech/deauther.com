@@ -11,6 +11,11 @@ We cannot start at 0 for this tutorial, so if you find this too tricky, get an A
 
 I focused on the NodeMCU in this tutorial since it is one of the most popular dev-boards. But every other ESP8266-based board should work just the same.  
 
+:::tip
+I made a custom PCB called HackHeld that makes it easier to build your own Deauther with a display.
+Learn more at [hackheld.spacehuhn.com](https://hackheld.spacehuhn.com).
+:::
+
 ## What you need
 - A breadboard ([Amazon*](https://amzn.to/3HtxH9y), [AliExpress*](https://s.click.aliexpress.com/e/_DDdF6Tt))
 - Jumper wires ([Amazon*](https://amzn.to/3HrKIk0), [AliExpress*](https://s.click.aliexpress.com/e/_DEEniwr))
