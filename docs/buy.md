@@ -60,5 +60,9 @@ You can find many other Deauthers online too. Those, however, are not officially
 
 **Please do not support people whose entire business is built upon taking advantage of open-source projects.**
 
+The worst offenders include Kaos Jammer, Walkür Technology, Retia, and Les French Twins. They sell you simple Deauthers but for horrendous prices. There are also many smaller sellers on the popular online marketplaces offering overpriced Deauthers, but they are not worth mentioning individually here.
+:::
+
+:::tip
 If you want to save money, I recommend you build one yourself! You only need an ESP8266 Development board, a USB cable, and a computer. See [supported devices](/docs/diy/supported-devices) for details.
 :::
