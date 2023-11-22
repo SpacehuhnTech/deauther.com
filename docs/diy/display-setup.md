@@ -165,7 +165,7 @@ You can also use [serial.huhn.me](https://serial.huhn.me) to connect to your dea
 
 When everything is correctly set up and uploaded, open the serial monitor with Arduino (Tools > Serial Monitor). 
 
-- **Set the baud rate to `115200` and select `Newline`.**  If you see it resetting every few seconds, check the code and make you didn't use the same pin twice.
+- **Set the baud rate to `115200` and select `Newline`.**  If you see it resetting every few seconds, check the code and make sure you didn't use the same pin twice.
 
 - If there's no image on display, type `set display true;;save settings` and press enter. Now press the reset button on the board to restart it. If the display doesn't show anything, something is off. Check your connections and the code.  
 
